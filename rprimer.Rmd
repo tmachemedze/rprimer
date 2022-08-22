@@ -3,16 +3,17 @@ title: "R Primer"
 author: "Takwanisa Machemedze"
 date: "2022-08-22"
 output:
-  pdf_document:
-    latex_engine: xelatex
-    toc: yes
-    toc_depth: '3'
   html_document:
     toc: yes
     toc_float:
       collapsed: no
       smooth_scroll: no
     toc_depth: 3
+  pdf_document:
+    latex_engine: xelatex
+    toc: yes
+    toc_depth: '3'
+  md_document: default
 theme: united
 bibliography: bibliography.bib
 link-citations: yes
