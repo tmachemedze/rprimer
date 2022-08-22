@@ -1,0 +1,13 @@
+
+ w1_hhid         'Household identifier'                                 
+ pid             'Individual identifier'                                
+ w1_prov2011     'Sampled Province (2011 Census)'                       
+ w1_geo2011      'Sampled GeoType (2011 Census)'                        
+ w1_r_relhead    'b3 - Household member's relationship to Resident head'
+ w1_best_gen     'Best gender'                                          
+ w1_best_race    'Best population group'                                
+ w1_best_edu     'Best education'                                       
+ w1_best_age_yrs 'Best age - years'                                     
+ w1_hhincome     'Household monthly income - full imputations'          
+ w1_expenditure  'Household Expenditure with full imputations'          
+
